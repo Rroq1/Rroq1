@@ -1,16 +1,13 @@
-## Hi there 👋
+### Duck | Présentation
 
-<!--
-**Rroq1/Rroq1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis Duck et j'habite en France. À 16 ans, je suis un développeur amateur passionné par la programmation, explorant divers langages et projets.
 
-Here are some ideas to get you started:
+### Compétences
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Compétences :  
+🌐 HTML / CSS
+🤖 Discord.js
+
+### Contactez-moi !
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/DuckDev0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://duckporfolio.xyz/)  
