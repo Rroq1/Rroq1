@@ -6,3 +6,7 @@ Je suis Duck et j'habite en France. À 16 ans, je suis un développeur amateur p
   
 * 🌐 HTML / CSS
 * 🤖 Discord.js
+
+## 🏫 Études
+
+* Lycée Informatique
