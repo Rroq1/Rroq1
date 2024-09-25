@@ -25,4 +25,4 @@ f## 💻 Duck | Présentation
   <a href="https://skillincons.dev">
     <img src="https://skillincons.dev?icons?i=nodejs,python,hmtl,css"/>
   </a>
-    
+</div>
