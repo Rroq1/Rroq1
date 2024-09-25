@@ -1,8 +1,8 @@
 ## 👋 Salut, je suis Duck !
      
-🥖 Je suis **Duck** et j'habite en **France**
-🤖 À 16 ans, je suis un développeur amateur passionné par la programmation
-🌲 J'explore divers langages et projets
+- 🥖 Je suis **Duck** et j'habite en **France**
+- 🤖 À 16 ans, je suis un développeur amateur passionné par la programmation
+- 🌲 J'explore divers langages et projets
 
 
 
@@ -24,3 +24,11 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,html,css"/>
   </a>
 </div>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Rroq1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Rroq1&icon=0&color=0)](https://visitcount.itsvg.in)
