@@ -16,11 +16,6 @@ f## 💻 Duck | Présentation
 </div>
 
 ## 🗂️ Compétences
-  
-* 🌐 HTML / CSS
-* 🤖 Discord.js
-
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs,python,html,css"/>
