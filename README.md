@@ -1,4 +1,4 @@
-## 💻 Duck | Présentation
+f## 💻 Duck | Présentation
      
 * Je suis **Duck** et j'habite en **France**. 🇫🇷
 * À 16 ans, je suis un développeur amateur passionné par la programmation, explorant divers langages et projets. 🤖
@@ -20,7 +20,9 @@
 * 🌐 HTML / CSS
 * 🤖 Discord.js
 
-## 🏫 Études
 
-* Lycée Informatique
-
+<div align="center">
+  <a href="https://skillincons.dev">
+    <img src="https://skillincons.dev?icons?i=nodejs,python,hmtl,css"/>
+  </a>
+    
