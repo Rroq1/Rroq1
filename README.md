@@ -22,7 +22,7 @@ f## 💻 Duck | Présentation
 
 
 <div align="center">
-  <a href="https://skillincons.dev">
-    <img src="https://skillincons.dev?icons?i=nodejs,python,hmtl,css"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev?icons?i=nodejs,python,hmtl,css"/>
   </a>
 </div>
