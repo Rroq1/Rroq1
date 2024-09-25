@@ -1,4 +1,4 @@
-## 👋 Salut, je suis Duck !
+# 👋 Salut, je suis Duck !
      
 - 🥖 Je suis **Duck** et j'habite en **France**
 - 🤖 À 16 ans, je suis un développeur amateur passionné par la programmation
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
