@@ -3,9 +3,6 @@
 - 🥖 Je suis **Duck** et j'habite en **France**.
 - 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
 - 🌲 J'**explore** divers **langages** et **projets**.
-- Aurian ke plus beau
-- je t'aime aurian marie moi
-
 
 
 <div align="center">
