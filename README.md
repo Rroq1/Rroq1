@@ -3,7 +3,7 @@
 - 🥖 Je suis **Duck** et j'habite en **France**.
 - 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
 - 🌲 J'**explore** divers **langages** et **projets**.
-- ⭐Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
+- ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
 
 <div align="center">
   <a href="mailto:duckcontact.pro@gmail.com">
