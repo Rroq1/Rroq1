@@ -6,7 +6,7 @@
 - ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
 
 <div align="center">
-  <p> Test </p>
+  <h2> Test </h2>
 </div>
 
 <div align="center">
