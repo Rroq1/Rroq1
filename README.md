@@ -28,7 +28,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 📊 Discord Profil
+## 🤖 Discord Profil
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/950455147471966279)](https://discord.com/users/950455147471966279)
 ---
