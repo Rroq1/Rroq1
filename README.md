@@ -21,6 +21,8 @@
   </a>
 </div>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/950455147471966279)](https://discord.com/users/950455147471966279)
+
 ## 🗂️ Compétences
 <div align="center">
   <a href="https://skillicons.dev">
