@@ -17,7 +17,7 @@
   </a>
 </div>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/950455147471966279)](https://discord.com/users/950455147471966279)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:950455147471966279)](https://discord.com/users/:950455147471966279)
 
 ## 🗂️ Compétences
 <div align="center">
