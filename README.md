@@ -4,6 +4,7 @@
 - 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
 - 🌲 J'**explore** divers **langages** et **projets**.
 - ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
+- 👽 Je suis un grand fan du jeu vidéo **Outer Wilds**, j'ai même créer un **site web** pour le présenter !
 
 <div align="center">
   <h2> 📃 Mes contactes : </h2>
