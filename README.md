@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Duck !
      
-- 🥖 Je suis **Duck** et j'habite en **France**.
+- 🥖 J'habite en **France**.
 - 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
 - 🌲 J'**explore** divers **langages** et **projets**.
 - ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
