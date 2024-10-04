@@ -36,5 +36,5 @@
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/950455147471966279)](https://discord.com/users/950455147471966279)
 ---
-[![](https://visitcount.itsvg.in/api?id=Rroq1&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Rroq1&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
