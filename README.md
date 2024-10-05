@@ -33,9 +33,6 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false) &nbsp; &nbsp; &nbsp; ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rroq1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🤖 Discord Profil
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/950455147471966279)](https://discord.com/users/950455147471966279)
 ---
 [![](https://visitcount.itsvg.in/api?id=Rroq1&label=Profile%20Views&color=3&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
