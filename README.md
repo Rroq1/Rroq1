@@ -9,7 +9,7 @@
   - 👨🏻‍💻 J'essaye de me **diversifier** dans mes **projets**, mais aussi dans leur **langage** de **programmation**.
   - ☄️ Je suis un grand fan du jeu vidéo **Outer Wilds**, j'ai même créer un **site web** pour le présenter !
 
-<div align="center">
+<div align="center" padding=10px>
   <h3> 📃 Mes contactes : </h3>
 </div>
 
