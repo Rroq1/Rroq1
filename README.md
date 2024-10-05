@@ -17,9 +17,11 @@
   <a href="mailto:duckcontact.pro@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
   </a>
+     
   <a href="https://www.duckporfolio.xyz/">
     <img src="https://img.shields.io/badge/Portfolio-8DB59A?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"/>
   </a>
+  
   <a href="https://x.com/DuckDev0">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"/>
   </a>
