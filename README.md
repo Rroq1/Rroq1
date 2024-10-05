@@ -3,9 +3,10 @@
 - 🖥️ Je suis **étudiant** en **informatique**.
   - 🥖 J'habite en **France**. 
   - 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
+  - ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
 
 - 🌲 J'**explore** divers **langages** et **projets**.
-  - ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
+  - 👨🏻‍💻 J'essaye de me diversifier dans mes projets, mais aussi dans leur langage de programmation.
   - 👽 Je suis un grand fan du jeu vidéo **Outer Wilds**, j'ai même créer un **site web** pour le présenter !
 
 <div align="center">
