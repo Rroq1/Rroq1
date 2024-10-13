@@ -1,14 +1,16 @@
 # 👋 Salut, je suis Duck !
-     
-- 🖥️ Je suis **étudiant** en **informatique**.
-  - 🥖 J'habite en **France**. 
-  - 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
-  - ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
-  - 📚 Je suis donc en **terminale** avec les **spécialité** suivantes : NSI & Mathématiques.
 
+### Descriptions
+- 🖥️ Je suis **étudiant** en **informatique**.
+- 🥖 J'habite en **France**. 
+- 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
+- ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
+- 📚 Je suis donc en **terminale** avec les **spécialité** suivantes : NSI & Mathématiques.
+
+### Ambitions & Projets
 - ✈️ J'**explore** divers **langages** et **projets**.
-  - 👨🏻‍💻 J'essaye de me **diversifier** dans mes **projets**, mais aussi dans leur **langage** de **programmation**.
-  - ☄️ Je suis un grand fan du jeu vidéo **Outer Wilds**, j'ai même créer un **site web** pour le présenter !
+- 👨🏻‍💻 J'essaye de me **diversifier** dans mes **projets**, mais aussi dans leur **langage** de **programmation**.
+- ☄️ Je suis un grand fan du jeu vidéo **Outer Wilds**, j'ai même créer un **site web** pour le présenter !
 
 <div align="center">
   <h3> 📃 Mes contactes : </h3>
