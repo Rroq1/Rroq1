@@ -1,6 +1,6 @@
 # 👋 Salut, je suis Duck !
 
-### Descriptions
+### Description
 - 🖥️ Je suis **étudiant** en **informatique**.
 - 🥖 J'habite en **France**. 
 - 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
