@@ -3,7 +3,7 @@
 ### Description
 - 🖥️ Je suis **étudiant** en **informatique**.
 - 🥖 J'habite en **France**. 
-- 🤖 À 16 ans, je suis un **développeur amateur passionné** par la programmation.
+- 🤖 À 17 ans, je suis un **développeur amateur passionné** par la programmation.
 - 📚 Je suis donc en **terminale** avec les **spécialité** suivantes : NSI & Mathématiques.
 
 ### Ambitions & Projets
