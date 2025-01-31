@@ -13,7 +13,7 @@
 - ☄️ Je suis un grand fan du jeu vidéo **Outer Wilds**, j'ai même créé un **site web** pour le présenter !
 
 <div align="center">
-  <h3> 📃 Mes contactes : </h3>
+  <h3> 📃 Mes contacts : </h3>
 </div>
 
 <div align="center">
