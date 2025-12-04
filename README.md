@@ -33,7 +33,7 @@
 ## 🗂️ Compétences
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,python,html,css"/>
+    <img src="https://skillicons.dev/icons?i=c,nodejs,python,html,css,mysql"/>
   </a>
 </div>
 
