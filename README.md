@@ -21,4 +21,4 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Rroq1&label=Vues&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=Rroq1)](https://github.com/Rroq1/github-readme-profile)
