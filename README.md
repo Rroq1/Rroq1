@@ -9,25 +9,6 @@
   } description;
 ```
 
-### Ambitions & Projets
-- ✈️ J'**explore** divers **langages** et **projets**.
-- ⭐ Mon **rêve** premier est de finir dans **l'informatique**, plus précisément dans la **programmation** !
-- 👨🏻‍💻 J'essaye de me **diversifier** dans mes **projets**, mais aussi dans leur **langage** de **programmation**.
-- ☄️ Je suis un grand fan du jeu vidéo **Outer Wilds**, j'ai même créé un **site web** pour le présenter !
-
-<div align="center">
-  <h3> 📃 Mes contacts : </h3>
-</div>
-
-<div align="center">
-  <a href="mailto:duckcontact.pro@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/>
-  </a>  
-  <a href="https://x.com/DuckDev0">
-    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" target="_blank"/>
-  </a>
-</div>
-
 ## 🗂️ Compétences
 <div align="center">
   <a href="https://skillicons.dev">
