@@ -1,5 +1,7 @@
 # 👋 Salut, je suis Duck !
-
+```typedef struct {
+  int age : 18;
+```
 ### Description
 - 🖥️ Je suis **étudiant** en **informatique**.
 - 🥖 J'habite en **France**. 
