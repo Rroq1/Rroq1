@@ -1,12 +1,13 @@
 # 👋 Salut, je suis Duck !
-```typedef struct {
-  int age : 18;
+```c
+  #include <étudiant.h>
+  
+  typedef struct {
+    int age : 18;
+    char études[15] : L2 Informatique;
+    char habitation[6] : France ;
+  } description;
 ```
-### Description
-- 🖥️ Je suis **étudiant** en **informatique**.
-- 🥖 J'habite en **France**. 
-- 🤖 À 18 ans, je suis un **développeur amateur passionné** par la programmation.
-- 📚 Actuellement, je suis en première année de **Licence Informatique**. Cette première année d'étude supérieur me permet de découvrir des nouveaux aspects de l'informatique.
 
 ### Ambitions & Projets
 - ✈️ J'**explore** divers **langages** et **projets**.
